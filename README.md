@@ -1,3 +1,3 @@
 ![alt text](https://github.com/zudeera/Hack-The-Box-Fuse-Write-Up/blob/main/Fuse.jpg?raw=true)
 # Hack-The-Box-Fuse-Write-Up
-Hack The Box Write ups
+This is a write up about the Windows box Fuse.
